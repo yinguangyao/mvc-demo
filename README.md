@@ -1,5 +1,10 @@
 ## mvc demo
 这里比较偷懒，就直接使用了react-imvc框架，没有自己封装起来，但是基本上和我博客中讲的原理是一样的。
+### 启动
+```
+npm i
+npm start
+```
 ### service
 这里service模拟了网络请求，在实际开发中，service里面应该放网络请求的函数。
 ### controller
