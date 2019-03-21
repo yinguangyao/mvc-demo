@@ -1,0 +1,18 @@
+{
+  "name": "mvc-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-imvc start",
+    "build": "react-imvc build",
+    "test": "react-imvc test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-imvc": "^2.4.1"
+  }
+}

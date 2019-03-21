@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+}
+.title {
+    font-size: 24px;
+    text-align: center;
+}
+.main {
+    margin-top: 50px;
+    font-size: 20px;
+}
+.main span {
+    display: inline-block;
+}
+.main .count {
+    margin: 0 80px;
+}
+.main .button {
+    border: 1px solid gray;;
+    padding: 0 20px;
+}
